@@ -82,23 +82,23 @@
 ## 6. 스크린샷
 
 ### 6.1.메인 화면
- ![메인](./screenshot/npf2.PNG)
+ ![메인](./screenshot/npf2.png)
  -------------
 
 ### 6.2. About 화면
- ![About](./screenshot/npf3.PNG)
+ ![About](./screenshot/npf3.png)
  -------------
  
  ### 6.3. 프로젝트 리스트 화면
- ![리스트](./screenshot/npf4.PNG)
+ ![리스트](./screenshot/npf4.png)
  -------------
   
  ### 6.4. Contact 화면
- ![Contact](./screenshot/npf5.PNG)
+ ![Contact](./screenshot/npf5.png)
  -------------
   
  ### 6.5. 관리자 페이지 화면
- ![관리자](./screenshot/npf6.PNG)
+ ![관리자](./screenshot/npf6.png)
  -------------
   
  ### 6.6. 데이터베이스 테이블 화면
