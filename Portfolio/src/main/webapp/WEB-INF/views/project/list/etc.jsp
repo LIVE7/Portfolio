@@ -42,7 +42,7 @@
 					</h4>
 					<br>
 					<p class="text-black-50 mb-0">
-						Java Network Socket을 활용하여<br>영상 송수신과 채팅 통신이 실시간으로 <br>가능합니다.
+						Java Network Socket을 활용하여<br>실시간으로 영상 송수신과 채팅이<br>가능합니다.
 					</p>
 					<br>
 				</div>
@@ -67,7 +67,7 @@
 					</h4>
 					<br>
 					<p class="text-black-50 mb-0">
-						Java swing을 이용하여 <br>마우스 클릭 좌표 값을 입력받아 <br>결과를 종합하여 정수를
+						Java swing을 이용하여 <br>마우스 클릭 좌표 값을 입력받아 <br>결과를 종합하여 수를
 						출력합니다.
 					</p>
 					<br>
